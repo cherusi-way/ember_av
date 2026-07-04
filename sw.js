@@ -5,14 +5,14 @@
 //    after the first online run. The model WEIGHTS are cached separately by WebLLM
 //    itself (Cache Storage / IndexedDB), so we don't try to manage those here.
 
-const SHELL_CACHE = "ember-fe543a413e";
+const SHELL_CACHE = "ember-796f9f25e3";
 const RUNTIME_CACHE = "ember-runtime-v1";
 
 const SHELL_ASSETS = [
   "./",
   "./index.html",
-  "./app.L25G2KKN.js",
-  "./styles.5J4WJBH4.css",
+  "./app.A5PY7XSV.js",
+  "./styles.NEBAWWLC.css",
   "./worker.js",
   "./manifest.json",
   "./icons/icon-192.png",
